@@ -18,5 +18,7 @@
   "workbench.colorTheme": "Monokai",
   "workbench.statusBar.visible": true,
   "workbench.editor.enablePreview": true,
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python.defaultInterpreterPath": "/usr/local/bin/python"
 }
